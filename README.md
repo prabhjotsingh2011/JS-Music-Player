@@ -7,7 +7,7 @@ JS-Music-Player is a music track player web application
  JavaScript.
 
 
-To listen Heat of Beats Click [Here](https://prabhjotsingh2011.github.io/JS-Music-Player/)
+To listen the Heat of Beats 🤩 Click [Here](https://prabhjotsingh2011.github.io/JS-Music-Player/)
 
 
 ## Features
@@ -16,6 +16,7 @@ To listen Heat of Beats Click [Here](https://prabhjotsingh2011.github.io/JS-Musi
 - Play/Pause Button ▶
 - "Playing..." to know which song is played 
 - Song's duration and current song timeline ⏳
+- Random song on refresh
 - 600+ lines of code 👩‍💻
 - **Progress Bar** : Using Progress Bar one can skip to any timeline of song
 - **Playlist looped** : Song Playlist will be lopped
