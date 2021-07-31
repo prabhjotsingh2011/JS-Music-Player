@@ -7,7 +7,7 @@ JS-Music-Player is a music track player web application
  JavaScript.
 
 
-
+To listen Heat of Beats Click [Here](https://prabhjotsingh2011.github.io/JS-Music-Player/)
 
 
 ## Features
@@ -46,6 +46,11 @@ JS-Music-Player is a music track player web application
 
 This project gave me a alot of Lessons regarding real world problems 
 and helped me to think in a practical way. It really improved my problem solving skills
+
+## Demo
+
+https://prabhjotsingh2011.github.io/JS-Music-Player/
+
 
   
 ## Feedback
